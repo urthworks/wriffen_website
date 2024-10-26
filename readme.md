@@ -8,6 +8,9 @@ This boilerplate can help you save hours of work, allowing you to focus on core 
 
 **#CodeLessShipMore**
 
+### Want me to help you supercharge your Django SaaS development?
+Contact me [here](https://tally.so/r/woO0Kx)
+
 ### Want to help me write more open-source?
 
 Consider buying me a coffee
@@ -60,9 +63,6 @@ For testing stripe check out test cards: https://docs.stripe.com/testing
 **Basic non-saas website template:** [Django boilerplate](https://github.com/PaulleDemon/Django-website-template)
 
 **Free and opensource landing pages:** [Free landing pages](https://github.com/PaulleDemon/awesome-landing-pages)
-
-### Django developer
-I fund open-source by providing custom works, so if you are looking for django developer to supercharge your development contact [here](https://tally.so/r/woO0Kx)
 
 ### Table of contents
 
