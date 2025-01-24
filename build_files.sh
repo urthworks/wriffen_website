@@ -5,10 +5,10 @@ python3 manage.py collectstatic --noinput
 # For vercel write the encoded firebase creds from env to file
 
 # Read base64 encoded text from an environment variable
-#encoded_text="$FIREBASE_ENCODED"
+encoded_text="$FIREBASE_ENCODED"
 
 # Specify the output file path
-#output_file="project/firebase-cred.json"
+output_file="project/firebase-cred.json"
 
 # Use Python to decode the base64 text and convert it to JSON
 python3 - <<EOF
